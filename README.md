@@ -108,6 +108,7 @@ Should we use this?
 * Patrick Sheehan
 * Michelle Paulsen
 * Alexandria Romasanta
+* Scott Coughlin
 
 ## License
 
