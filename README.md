@@ -1,6 +1,8 @@
 # IDEASpy
 
-A beginner Python course tailored to those intereseting in scientific computing and data science. The course is presented in the form of Jupyter notebooks. Each module introduces a new larger topic in python, as well as at least one challenge set at the completion of training modules. The modules cover the following basic topics:
+A beginner Python course tailored to those intereseting in scientific computing and data science. The course is presented in the form of Jupyter notebooks. Each module introduces a new larger topic in python, as well as at least one challenge set at the completion of training modules. 
+
+The modules cover the following basic topics:
 
 1. Introduction to Python
 	1. Getting start with Python
@@ -27,7 +29,7 @@ A beginner Python course tailored to those intereseting in scientific computing 
 	* Challenge 4: Analyze Gaia Data with Pandas
 
 
-Funding for the creation of this course was provided by the National Science Foundation through a combination of the IDEAS and Reach for the Stars Programs within CIERA at Northwestern University. 
+Funding for the creation of this course was provided by the National Science Foundation through a combination of the IDEAS and Reach for the Stars Programs within CIERA at Northwestern University. IDEAS stands for **Integrated Data Drive Discovery in Earth and Astrophysical Sciences**.
 
 ## Getting Started
 
@@ -78,81 +80,40 @@ jupyter notebook Section_1.ipynb
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include NumPy, Pandas, Matplotlib, etc.
 
-```
-Give examples
-```
+## Contributing / New Modules or New Versions for Different Audiences
 
-### Installing
+As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [ADD EMAIL]. There are two reasons for this:
 
-A step by step series of examples that tell you how to get a development env running
+1. It allows us to further understand its reach when reporting to funding providers or those interested in working with our research center. 
 
-Say what the step will be
+2. If you develop material we are interested in adopting, we would like to open that collaborative channel in order to best further and improve the learning provided within this tutorial. 
 
-```
-Give the example
-```
 
-And repeat
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct related to contributing.
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Should we use this?
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* Katie Breivik
+* Michael Katz
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Contributors
+
+* Patrick Sheehan
+* Michelle Paulsen
+* Alexandria Romasanta
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Scotty - do we have specific license we want to use. 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Funding - add this
 
