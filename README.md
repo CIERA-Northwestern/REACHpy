@@ -29,7 +29,7 @@ The modules cover the following basic topics:
 	* Challenge 4: Analyze Gaia Data with Pandas
 
 
-Funding for the creation of this course was provided by the National Science Foundation through a combination of the IDEAS and Reach for the Stars Programs within CIERA at Northwestern University. IDEAS stands for **Integrated Data Drive Discovery in Earth and Astrophysical Sciences**.
+IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
 ## Getting Started
 
@@ -115,5 +115,5 @@ Scotty - do we have specific license we want to use.
 
 ## Acknowledgments
 
-* Funding - add this
+* IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
