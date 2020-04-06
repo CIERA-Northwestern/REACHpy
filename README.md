@@ -27,15 +27,15 @@ A beginner Python course tailored to those intereseting in scientific computing 
 	* Challenge 4: Analyze Gaia Data with Pandas
 
 
-Funding for the creation of this course was provided by the National Science Foundation NRT Program and the IDEAS program within CIERA at Northwestern University.
+Funding for the creation of this course was provided by the National Science Foundation through a combination of the IDEAS and Reach for the Stars Programs within CIERA at Northwestern University. 
 
 ## Getting Started
 
-These programs can be run through jupyter notebook on your local machine or google colab on a web browzer. It is recommended to use Googel colab if you are uncertain about installing python/anaconda, or if this is for a class on general computers.
+These programs can be run through jupyter notebook on your local machine or Google colab on a web browzer. It is recommended to use Google colab if you are uncertain about installing python/anaconda, or if this is for a class on general computers.
 
-Follow these instructions if you want to run this on google colab. It is required that you have an email address that is hosted through Google in order to save you work for later. 
+Follow these instructions if you want to run this on Google colab. It is required that you have an email address that is hosted through Google in order to save you work for later. 
 
-1. Go to Google Colab: [Colab](https://colab.research.google.com/)
+1. Go to Google Colab: [Colab](https://colab.research.Google.com/)
 
 2. Click **File -> Open notebook**
 
@@ -52,29 +52,29 @@ To run locally, we will provide instructions using the **Terminal**. We generall
 1. Open a terminal window.
 
 2. Change directory to the preferred directory where you would like these notebooks stored
-"""
+```
 cd Path/To/Directory/
-"""
+```
 
 3. Clone this repository in the terminal
-"""
+```
 git clone https://github.com/CIERA-Northwestern/IDEASpy.git
-"""
+```
 
 4. Change directory to the IDEASpy directory
-"""
+```
 cd IDEASpy/
-"""
+```
 
 5. Change directory to the module of your choice. For example, for Module 1:
-"""
+```
 cd Module_1/
-"""
+```
 
 6. Start jupyter notebook with the desired section. For example, for Section 1:
-"""
+```
 jupyter notebook Section_1.ipynb
-"""
+```
 
 ### Prerequisites
 
