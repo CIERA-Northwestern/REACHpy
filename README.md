@@ -24,14 +24,22 @@ A beginner Python course tailored to those intereseting in scientific computing 
 	3. Pandas Basics
 	4. Exploring More Complex Data Files with Pandas
 	* Challenge 3: Optimize a Code with NumPy
-	* Challenge $: Analyze Gaia Data with Pandas
+	* Challenge 4: Analyze Gaia Data with Pandas
 
 
 Funding for the creation of this course was provided by the National Science Foundation NRT Program and the IDEAS program within CIERA at Northwestern University.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These programs can be run through jupyter notebook on your local machine or google colab on a web browzer. It is recommended to use Googel colab if you are uncertain about installing python/anaconda, or if this is for a class on general computers.
+
+Follow these instructions if you want to run this on google colab:
+
+1. Go to Google Colab: [Colab](https://colab.research.google.com/)
+
+```
+Give examples
+```
 
 ### Prerequisites
 
