@@ -84,7 +84,7 @@ If you are using Google Colab or Anaconda, all the packages used in this program
 
 ## Contributing / New Modules or New Versions for Different Audiences
 
-As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [IDEAS@northwestern.edu](IDEAS@northwestern.edu). There are two reasons for this:
+As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [IDEAS@northwestern.edu](mailto:IDEAS@northwestern.edu). There are two reasons for this:
 
 1. It allows us to further understand its reach when reporting to funding providers or those interested in working with our research center. 
 
