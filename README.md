@@ -1,8 +1,8 @@
 # IDEASpy
 
-A beginner Python course tailored to those intereseting in scientific computing and data science. The course is presented in the form of Jupyter notebooks. Each module introduces a new larger topic in python, as well as at least one challenge set at the completion of training modules. 
+A beginner Python course tailored to those intereseted in scientific computing and data science. The course is presented in the form of Jupyter notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. 
 
-The modules cover the following basic topics:
+The modules cover the following topics:
 
 1. Introduction to Python
 	1. Getting start with Python
@@ -93,10 +93,6 @@ As maintainers of this project, we would like to expand its reach to as many stu
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct related to contributing.
 
-
-## Versioning
-
-Should we use this?
 
 ## Authors
 
