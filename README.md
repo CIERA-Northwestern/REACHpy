@@ -84,14 +84,14 @@ If you are using Google Colab or Anaconda, all the packages used in this program
 
 ## Contributing / New Modules or New Versions for Different Audiences
 
-As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [ADD EMAIL]. There are two reasons for this:
+As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [IDEAS@northwestern.edu](IDEAS@northwestern.edu). There are two reasons for this:
 
 1. It allows us to further understand its reach when reporting to funding providers or those interested in working with our research center. 
 
 2. If you develop material we are interested in adopting, we would like to open that collaborative channel in order to best further and improve the learning provided within this tutorial. 
 
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct related to contributing.
+Please read [CONTRIBUTING.md](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/CONTRIBUTING.md) for details on our code of conduct related to contributing.
 
 
 ## Authors
@@ -108,7 +108,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-Scotty - do we have specific license we want to use. 
+This work is licensed under the GNU Public License. Please see our [LICENSE](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/LICENSE).
 
 ## Acknowledgments
 
