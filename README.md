@@ -91,7 +91,7 @@ As maintainers of this project, we would like to expand its reach to as many stu
 2. If you develop material we are interested in adopting, we would like to open that collaborative channel in order to best further and improve the learning provided within this tutorial. 
 
 
-Please read [CONTRIBUTING.md](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/CONTRIBUTING.md) for details on our code of conduct related to contributing.
+Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/Contributing.md) for details on our code of conduct related to contributing.
 
 
 ## Authors
