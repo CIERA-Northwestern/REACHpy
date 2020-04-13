@@ -33,7 +33,7 @@ IDEASpy was originally developed as part of the Integrated Data-Driven Discovery
 
 ## Getting Started
 
-These programs can be run through jupyter notebook on your local machine or Google Golab on a web browzer. It is recommended you use Google Colab if you are uncertain about installing Python/Anaconda, or if this is for a class on general computers.
+These programs can be run through jupyter notebook on your local machine or Google Colab on a web browser. It is recommended you use Google Colab if you are uncertain about installing Python/Anaconda, or if this is for classrooms where software cannot be installed.
 
 Follow these instructions if you want to run this on Google Colab. It is required that you have an email address that is hosted through Google in order to save you work for later. 
 
