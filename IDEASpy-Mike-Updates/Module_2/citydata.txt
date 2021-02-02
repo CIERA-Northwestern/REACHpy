@@ -1,0 +1,5 @@
+#CityName         Population
+Chicago           2.704958e6
+Seattle             7.04352e5
+Dallas               1.197816e6
+Philadelphia     1.567872e6
