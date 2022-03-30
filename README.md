@@ -5,7 +5,7 @@ An introductory Python course tailored to those intereseted in scientific comput
 The modules cover the following topics:
 
 1. Introduction to Python
-    0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	1. Getting Started with Python <a href="/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Introduction to Lists <a href="/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Conditional Statements <a href="/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
