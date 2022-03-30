@@ -5,6 +5,7 @@ A beginner Python course tailored to those intereseted in scientific computing a
 The modules cover the following topics:
 
 1. Introduction to Python
+        0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	1. Getting start with Python
 	2. Data Types and Precision
 	3. Functions, Modules, Packages
