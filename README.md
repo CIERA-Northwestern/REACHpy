@@ -10,9 +10,9 @@ The modules cover the following topics:
 	1. Getting Started with Python <a href="/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Introduction to Lists <a href="/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Conditional Statements <a href="/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	* Challenge 1:
-	* Challenge 2:
-	* Challenge 3:
+	* Challenge 1: Angular Velocity <a href="/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Kepler's Laws <a href="/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 3: Lifetime of the Sun <a href="/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 2. Introduction to Data and Plotting in Python
 	1. Lists in Python
