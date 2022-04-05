@@ -1,16 +1,18 @@
 # IDEASpy
 
-A beginner Python course tailored to those intereseted in scientific computing and data science. The course is presented in the form of Jupyter notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. 
+An introductory Python course tailored to those intereseted in scientific computing and data science. The course is presented in the form of Google Colab  notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
 The modules cover the following topics:
 
+0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 1. Introduction to Python
-	1. Getting start with Python
-	2. Data Types and Precision
-	3. Functions, Modules, Packages
-	4. Conditional Statements and Loops
-	5. Your First Python Code
-	* Challenge 1: Using Python to Analyze Seismic Data on Mars
+	1. Getting Started with Python <a href="/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Introduction to Lists <a href="/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Conditional Statements <a href="/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 1: Angular Velocity <a href="/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Kepler's Laws <a href="/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 3: Lifetime of the Sun <a href="/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 2. Introduction to Data and Plotting in Python
 	1. Lists in Python
