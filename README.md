@@ -16,11 +16,13 @@ The modules cover the following topics:
 
 2. Introduction to Data and Plotting in Python
 	1. Introduction to Functions and Modules <a href="/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	2. Loops and List Comprehension
-	3. Reading and Parsing Data From a File
-	4. Defining Your Own Functions and Modules
-	5. Plotting with Matplotlib
-	* Challenge 2: Using Python to Analyze and Plot Exoplanet Data
+	2. Numpy
+	3. Plotting with Matplotlib
+	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data
+	* Challenge 2: Plot the Rotation Curve of the Solar System
+	* Challenge 3: The Expansion of the Universe
+	* Challenge 4: Creating an Hertzsprung-Russell Diagram
+	* Challenge 5: Galaxy Rotation Curves
 
 3. Optimizing Python and Furthering Analysis in Python
 	1. NumPy
