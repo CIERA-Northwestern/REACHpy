@@ -1,6 +1,6 @@
 # IDEASpy
 
-An introductory Python course tailored to those intereseted in scientific computing and data science. The course is presented in the form of Google Colab  notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
+An introductory Python course tailored to those interested in scientific computing and data science. The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
 The modules cover the following topics:
 
@@ -15,12 +15,14 @@ The modules cover the following topics:
 	* Challenge 3: Lifetime of the Sun <a href="/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 2. Introduction to Data and Plotting in Python
-	1. Lists in Python
-	2. Loops and List Comprehension
-	3. Reading and Parsing Data From a File
-	4. Defining Your Own Functions and Modules
-	5. Plotting with Matplotlib
-	* Challenge 2: Using Python to Analyze and Plot Exoplanet Data
+	1. Introduction to Functions and Modules <a href="/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Numpy
+	3. Plotting with Matplotlib
+	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data
+	* Challenge 2: Plot the Rotation Curve of the Solar System
+	* Challenge 3: The Expansion of the Universe
+	* Challenge 4: Creating an Hertzsprung-Russell Diagram
+	* Challenge 5: Galaxy Rotation Curves
 
 3. Optimizing Python and Furthering Analysis in Python
 	1. NumPy
@@ -37,15 +39,15 @@ IDEASpy was originally developed as part of the Integrated Data-Driven Discovery
 
 These programs can be run through jupyter notebook on your local machine or Google Colab on a web browser. It is recommended you use Google Colab if you are uncertain about installing Python/Anaconda, or if this is for classrooms where software cannot be installed.
 
-Follow these instructions if you want to run this on Google Colab. It is required that you have an email address that is hosted through Google in order to save you work for later. 
+Follow these instructions if you want to run this on Google Colab. It is required that you have an email address that is hosted through Google in order to save you work for later.
 
 1. Go to Google Colab: [Colab](https://colab.research.Google.com/)
 
 2. Click **File -> Open notebook**
 
-3. Click **Github**. Copy and paste this link: https://github.com/CIERA-Northwestern/IDEASpy. Click enter or return. 
+3. Click **Github**. Copy and paste this link: https://github.com/CIERA-Northwestern/IDEASpy. Click enter or return.
 
-4. Click on the Module/Section you would like to work on. 
+4. Click on the Module/Section you would like to work on.
 
 5. Click **Copy to Drive**
 
@@ -82,15 +84,15 @@ jupyter notebook Section_1.ipynb
 
 ### Prerequisites
 
-If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include NumPy, Pandas, Matplotlib, etc.
+If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include Matplotlib, NumPy, and Pandas.
 
 ## Contributing / New Modules or New Versions for Different Audiences
 
 As maintainers of this project, we would like to expand its reach to as many students as possible while maintaining its main purpose of introducing a variety of audiences to coding and Data Science through the use of Python. If you would like to use this project as a base for a more directed course, we politely ask you to let us know by raising it as an issue or emailing us at [IDEAS@northwestern.edu](mailto:IDEAS@northwestern.edu). There are two reasons for this:
 
-1. It allows us to further understand its reach when reporting to funding providers or those interested in working with our research center. 
+1. It allows us to further understand its reach when reporting to funding providers or those interested in working with our research center.
 
-2. If you develop material we are interested in adopting, we would like to open that collaborative channel in order to best further and improve the learning provided within this tutorial. 
+2. If you develop material we are interested in adopting, we would like to open that collaborative channel in order to best further and improve the learning provided within this tutorial.
 
 
 Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/Contributing.md) for details on our code of conduct related to contributing.
@@ -98,15 +100,20 @@ Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob
 
 ## Authors
 
-* Katie Breivik
-* Michael Katz
+* Fulya Kiroglu
+* Miguel Martinez
+* Diego Munoz
+* Michael C. Stroh
 
 ## Contributors
 
-* Patrick Sheehan
+* Katie Breivik
+* Scott Coughlin
+* Michael Katz
 * Michelle Paulsen
 * Alexandria Romasanta
-* Scott Coughlin
+* James Schottelkotte
+* Patrick Sheehan
 
 ## License
 
@@ -115,4 +122,3 @@ This work is licensed under the GNU Public License. Please see our [LICENSE](htt
 ## Acknowledgments
 
 * IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
-
