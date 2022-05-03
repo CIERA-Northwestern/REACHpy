@@ -19,11 +19,11 @@ The modules cover the following topics:
 	1. Introduction to Functions and Modules <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Introduction to Numpy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_2_Intro_to_NumPy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Plotting with Matplotlib <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_3_Plotting_with_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data
-	* Challenge 2: Plot the Rotation Curve of the Solar System
-	* Challenge 3: The Expansion of the Universe
-	* Challenge 4: Creating an Hertzsprung-Russell Diagram
-	* Challenge 5: Galaxy Rotation Curves
+	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_1_Exoplanet_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Plot the Rotation Curve of the Solar System <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_2_Rotation_Curve_Solar_System.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 3: The Expansion of the Universe <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_3_Universe_Expansion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 4: Creating an Hertzsprung-Russell Diagram <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_4_HR_Diagram.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 5: Galaxy Rotation Curves <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 3. Optimizing Python and Furthering Analysis in Python
 	1. NumPy
