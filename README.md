@@ -1,58 +1,37 @@
-# REACH: Research Experiences in Astronomy at CIERA for High School Students
+# REACHpy
 
-This is the GitHub repository for CIERA's REACH program. This repository is built on the [IDEASpy package](https://github.com/CIERA-Northwestern/IDEASpy), which is a beginner Python course tailored to those intereseted in scientific computing and data science. The course is presented in the form of Jupyter notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections.
+This is the GitHub repository for CIERA's REACH program. This is built on the IDEASpy package, an introductory Python course tailored to those interested in scientific computing and data science. The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
 The modules cover the following topics:
 
+0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 1. Introduction to Python
-    1. Getting Started with Python <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    2. Data Types and Precision <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Section_2_Intro_to_Data_Types.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    3. Functions and Modules <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Section_3_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    4. Conditional Statements and Loops <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Section_4_Conditional_Statements_and_Loops.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 1: Using Python to Analyze Seismic Data on Mars <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 2: Calculate the Mass of the Sun with Python <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 3: How Long Will the Sun Live? <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. Getting Started with Python <a href="/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Introduction to Lists <a href="/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Conditional Statements <a href="/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 1: Angular Velocity <a href="/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Kepler's Laws <a href="/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 3: Lifetime of the Sun <a href="/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 2. Introduction to Data and Plotting in Python
-    1. Lists in Python <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Section_1_Lists_in_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    2. Loops and List Comprehension <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Section_2_List_Comprehensions.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    3. Getting Started with Numpy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Section_3_Getting_Started_with_NumPy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    4. Plotting with Matplotlib <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Section_4_Plotting_with_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 1: Using Python to Analyze and Plot Exoplanet Data <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Challenge_1_Exoplanet_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 2: Make a Rotation Curve for our Solar System <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Challenge_2_Rotation_Curve_Solar_System.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 3: Measure the Expansion of the Universe <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Challenge_3_Universe_Expansion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 4: Plot a Hertzprung-Russell Diagram <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Challenge_4_HR_Diagram.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 5: Rotation Curves of Galaxies <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 6: Optimize a Code with NumPy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Challenge_6_Optimize_with_Numpy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. Introduction to Functions and Modules <a href="/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Numpy
+	3. Plotting with Matplotlib
+	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data
+	* Challenge 2: Plot the Rotation Curve of the Solar System
+	* Challenge 3: The Expansion of the Universe
+	* Challenge 4: Creating an Hertzsprung-Russell Diagram
+	* Challenge 5: Galaxy Rotation Curves
 
 3. Optimizing Python and Furthering Analysis in Python
-    1. Code Optimization with NumPy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_1_Optimize_Code_Numpy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    2. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_2_Pandas_Basics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    3. Exploring More Complex Data Files with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_3_Advanced_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    4. Advanced Reading and Parsing of Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_4_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    5. Defining Your Own Functions and Modules <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_5_Defining_and_Using_Your_Own_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    6. Your First Python Script <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Section_6_Creating_and_Executing_Python_Script.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    7. Measurement Uncertainty and Error Propagation <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/MeasurementUncertainty/MeasurementUncertainty.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    8. Scipy: Python Tools for Science <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/DataAnalysisModule/Intro_to_Scipy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    * Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. NumPy
+	2. Code Optimization
+	3. Pandas Basics
+	4. Exploring More Complex Data Files with Pandas
+	* Challenge 3: Optimize a Code with NumPy
+	* Challenge 4: Analyze Gaia Data with Pandas
 
-4. Introduction to Astropy for Data Analysis
-    1. Astropy Images <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/AstropyModule/Astropy-images.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    2. Astropy Tables <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/AstropyModule/Astropy-table.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-5. Research Mini-Projects
-    1. How Bright are Accreting Black Holes? <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/AccretingBlackHoles/AccretingBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    2. Exploring Binary Black Hole Merger Rates <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/BinaryBlackHoleMergers/BinaryBlackHoleMergers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    3. Exploring the Earth with Climate Models <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/EarthsClimateModel/EarthsClimateModel.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    4. How Much Energy can be Extracted from Black Holes <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/ExtractingEnergyFromBlackHoles/ExtractingEnergyFromBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    5. Exploring the Properties of Habitable Worlds <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/HabitableWorlds/HabitableWorlds.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    6. Short Gamma Ray Burst Afterglow Modeling <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/SGRB-AfterglowModeling/SGRB_Afterglow_Modeling.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    7. Exploring Stellar Evolution with Gaia <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/StellarEvolutionWithGaia/StellarEvolutionWithGaia.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    8. The Effects of Stellar Flares on Exoplanet Atmospheres <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/StellarFlaresAndExoplanets/StellarFlaresAndExoplanets.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    9. Weighing Baby Solar Systems <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/WeighingBabySolarSystems/WeighingBabySolarSystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    10. Velocities of Stars in the Milky Way <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/VelocityOfStarsInTheMilkyWay/VelocityOfStarsInTheMilkyWay.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    11. Multiwavelength Imaging <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/MultiwavelengthImaging/MultiwavelengthImaging.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    12. Simulating Planetary Systems with Rebound <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/master/Projects/SimulatingPlanetarySystems/SimulatingPlanetarySystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
@@ -62,11 +41,17 @@ These programs can be run through jupyter notebook on your local machine or Goog
 
 Follow these instructions if you want to run this on Google Colab. It is required that you have an email address that is hosted through Google in order to save you work for later.
 
-1. In the table of contents above, click on the "Open in Colab" badge to open the notebook directly in Colab.
+1. Go to Google Colab: [Colab](https://colab.research.Google.com/)
 
-2. Click **Copy to Drive**
+2. Click **File -> Open notebook**
 
-3. Make sure you work in this new copy if you would like to save your work!
+3. Click **Github**. Copy and paste this link: https://github.com/CIERA-Northwestern/IDEASpy. Click enter or return.
+
+4. Click on the Module/Section you would like to work on.
+
+5. Click **Copy to Drive**
+
+6. Make sure you work in this new copy if you would like to save your work!
 
 To run locally, we will provide instructions using the **Terminal**. We generally recommend installing Jupyter Notebook with Anaconda. To install Anaconda on your local machine, please follow these instructions: [Install Anaconda](https://docs.anaconda.com/anaconda/install/)
 
@@ -99,7 +84,7 @@ jupyter notebook Section_1.ipynb
 
 ### Prerequisites
 
-If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include NumPy, Pandas, Matplotlib, etc.
+If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include Matplotlib, NumPy, and Pandas.
 
 ## Contributing / New Modules or New Versions for Different Audiences
 
@@ -115,15 +100,20 @@ Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob
 
 ## Authors
 
-* Katie Breivik
-* Michael Katz
+* Fulya Kiroglu
+* Miguel Martinez
+* Diego Munoz
+* Michael C. Stroh
 
 ## Contributors
 
-* Patrick Sheehan
+* Katie Breivik
+* Scott Coughlin
+* Michael Katz
 * Michelle Paulsen
 * Alexandria Romasanta
-* Scott Coughlin
+* James Schottelkotte
+* Patrick Sheehan
 
 ## License
 
@@ -132,4 +122,3 @@ This work is licensed under the GNU Public License. Please see our [LICENSE](htt
 ## Acknowledgments
 
 * IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
-
