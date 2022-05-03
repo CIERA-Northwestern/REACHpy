@@ -4,20 +4,21 @@ This is the GitHub repository for CIERA's REACH program. This is built on the ID
 
 The modules cover the following topics:
 
-0. Introduction to Colab <a href="/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+0. Background 
+	1. Introduction to Colab <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Introduction to Python
-	1. Getting Started with Python <a href="/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	2. Introduction to Lists <a href="/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	3. Conditional Statements <a href="/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	* Challenge 1: Angular Velocity <a href="/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	* Challenge 2: Kepler's Laws <a href="/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	* Challenge 3: Lifetime of the Sun <a href="/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. Getting Started with Python <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Introduction to Lists and Loops <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_2_Intro_to_Lists.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Conditional Statements <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_3_Conditional_Statements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 1: Angular Velocity <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Challenge_1_Angular_Velocity_Simple_Kinematics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Kepler's Laws <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Challenge_2_Keplers_Laws_Solar_Mass.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 3: Lifetime of the Sun <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Challenge_3_Lifetime_of_Sun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 2. Introduction to Data and Plotting in Python
-	1. Introduction to Functions and Modules <a href="/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	2. Numpy
-	3. Plotting with Matplotlib
+	1. Introduction to Functions and Modules <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_1_Intro_to_Functions_and_Modules.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Introduction to Numpy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_2_Intro_to_NumPy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Plotting with Matplotlib <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Section_3_Plotting_with_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 1: Using Python to Analyze and Plot Exoplanet Data
 	* Challenge 2: Plot the Rotation Curve of the Solar System
 	* Challenge 3: The Expansion of the Universe
