@@ -1,0 +1,9 @@
+#PlanetName      Mass(1e24 kg)
+Mercury          0.330
+Venus            4.87
+Earth            5.97
+Mars             0.642
+Jupiter          1898
+Saturn           568
+Uranus           86.8
+Neptune          102
