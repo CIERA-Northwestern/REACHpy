@@ -1,4 +1,4 @@
-# IDEASpy
+# REACHpy
 
 An introductory Python course tailored to those interested in scientific computing and data science. The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
