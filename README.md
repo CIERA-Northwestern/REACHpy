@@ -27,7 +27,7 @@ The modules cover the following topics:
 
 3. Optimizing Python and Furthering Analysis in Python
 	1. Pandas Basics
-	2. Reading and Parsing Data Files
+	2. Reading and Parsing Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_2_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Advanced Matplotlib Figures
 	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
