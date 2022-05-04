@@ -26,35 +26,23 @@ The modules cover the following topics:
 	* Challenge 5: Galaxy Rotation Curves <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 3. Optimizing Python and Furthering Analysis in Python
-	1. NumPy
-	2. Code Optimization
-	3. Pandas Basics
-	4. Exploring More Complex Data Files with Pandas
-	* Challenge 3: Optimize a Code with NumPy
-	* Challenge 4: Analyze Gaia Data with Pandas
+	1. Pandas Basics
+	2. Reading and Parsing Data Files
+	3. Advanced Matplotlib Figures
+	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
 ## Getting Started
 
-These programs can be run through jupyter notebook on your local machine or Google Colab on a web browser. It is recommended you use Google Colab if you are uncertain about installing Python/Anaconda, or if this is for classrooms where software cannot be installed.
+We recommend that you use Google Colab for these notebooks. The links next to each section and challenge problem will automatically open the file in Google Colab.
 
-Follow these instructions if you want to run this on Google Colab. It is required that you have an email address that is hosted through Google in order to save you work for later.
+Remember to save your work to Google Drive.
 
-1. Go to Google Colab: [Colab](https://colab.research.Google.com/)
+## Running on a local machine
 
-2. Click **File -> Open notebook**
-
-3. Click **Github**. Copy and paste this link: https://github.com/CIERA-Northwestern/IDEASpy. Click enter or return.
-
-4. Click on the Module/Section you would like to work on.
-
-5. Click **Copy to Drive**
-
-6. Make sure you work in this new copy if you would like to save your work!
-
-To run locally, we will provide instructions using the **Terminal**. We generally recommend installing Jupyter Notebook with Anaconda. To install Anaconda on your local machine, please follow these instructions: [Install Anaconda](https://docs.anaconda.com/anaconda/install/)
+We provide instructions using the **Terminal**. We recommend installing Jupyter Notebook with Anaconda. To install Anaconda on your local machine, please follow these instructions: [Install Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 1. Open a terminal window.
 
@@ -65,12 +53,12 @@ cd Path/To/Directory/
 
 3. Clone this repository in the terminal
 ```
-git clone https://github.com/CIERA-Northwestern/IDEASpy.git
+git clone https://github.com/CIERA-Northwestern/REACHpy.git
 ```
 
 4. Change directory to the IDEASpy directory
 ```
-cd IDEASpy/
+cd REACHpy/
 ```
 
 5. Change directory to the module of your choice. For example, for Module 1:
@@ -80,12 +68,12 @@ cd Module_1/
 
 6. Start jupyter notebook with the desired section. For example, for Section 1:
 ```
-jupyter notebook Section_1.ipynb
+jupyter notebook Section_1_Intro_to_Python.ipynb
 ```
 
 ### Prerequisites
 
-If you are using Google Colab or Anaconda, all the packages used in this program will be installed automatically. These include Matplotlib, NumPy, and Pandas.
+If you are using Google Colab or Anaconda, all dependencies will be installed automatically. These include Matplotlib, NumPy, and Pandas.
 
 ## Contributing / New Modules or New Versions for Different Audiences
 
@@ -103,14 +91,14 @@ Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob
 
 * Fulya Kiroglu
 * Miguel Martinez
-* Diego Munoz
 * Michael C. Stroh
 
-## Contributors
+## Past Authors and Contributors
 
 * Katie Breivik
 * Scott Coughlin
 * Michael Katz
+* Diego Munoz
 * Michelle Paulsen
 * Alexandria Romasanta
 * James Schottelkotte
@@ -118,7 +106,7 @@ Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob
 
 ## License
 
-This work is licensed under the GNU Public License. Please see our [LICENSE](https://github.com/CIERA-Northwestern/IDEASpy/blob/master/LICENSE).
+This work is licensed under the GNU Public License. Please see our [LICENSE](https://github.com/CIERA-Northwestern/REACHpy/blob/master/LICENSE).
 
 ## Acknowledgments
 
