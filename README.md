@@ -40,7 +40,7 @@ The modules cover the following topics:
 5. Projects
 	1. TBD
 
-IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
+IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
 ## Getting Started
 
@@ -118,4 +118,4 @@ This work is licensed under the GNU Public License. Please see our [LICENSE](htt
 
 ## Acknowledgments
 
-* IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
+* IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
