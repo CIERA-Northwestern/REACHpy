@@ -25,7 +25,7 @@ The modules cover the following topics:
 	* Challenge 4: Creating an Hertzsprung-Russell Diagram <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_4_HR_Diagram.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 5: Galaxy Rotation Curves <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-3. Optimizing Python and Furthering Analysis in Python
+3. Advanced Analysis and Tools in Python
 	1. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_1_Pandas_Basics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Reading and Parsing Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_2_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Advanced Matplotlib Figures
