@@ -25,14 +25,22 @@ The modules cover the following topics:
 	* Challenge 4: Creating an Hertzsprung-Russell Diagram <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_4_HR_Diagram.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 5: Galaxy Rotation Curves <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-3. Optimizing Python and Furthering Analysis in Python
+3. Advanced Analysis and Tools in Python
 	1. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_1_Pandas_Basics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Reading and Parsing Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_2_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Advanced Matplotlib Figures
 	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+4. Advanced Astronomy and Scientific Computing in Python
+	1. Measurement Uncertainty and Precision <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_1_Measurement_Uncertainty.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Introduction to SciPy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_2_Intro_to_Scipy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Creating Images with Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_3_Astropy_Images.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	4. Tables in Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_4_Astropy_Tables.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
+5. Projects
+	1. TBD
+
+IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
 ## Getting Started
 
@@ -110,4 +118,4 @@ This work is licensed under the GNU Public License. Please see our [LICENSE](htt
 
 ## Acknowledgments
 
-* IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by high school students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
+* IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
