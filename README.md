@@ -5,7 +5,7 @@ This is the GitHub repository for CIERA's REACH program. This is built on the ID
 The modules cover the following topics:
 
 0. Background 
-	1. Introduction to Colab <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_0_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. Introduction to Colab <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_0/Section_1_Intro_to_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Introduction to Python
 	1. Getting Started with Python <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_1/Section_1_Intro_to_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
