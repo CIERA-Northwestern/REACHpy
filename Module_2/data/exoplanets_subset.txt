@@ -6,9 +6,9 @@
 #
 # Columns:
 #
-#  1: Planetary mass [Jupiter Masses]  
+#  1: Planetary mass [Jupiter masses]  
 #  2: Radius [Jupiter radii]
-#  3: Period[days] 
+#  3: Period [days] 
 #  4: Discovery method
 #  5: Discovery year
 #
