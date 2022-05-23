@@ -26,7 +26,7 @@ The modules cover the following topics:
 	* Challenge 5: Galaxy Rotation Curves <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_2/Challenge_5_Galaxy_Rotation_Curves.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 3. Advanced Analysis and Tools in Python
-	1. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_1_Pandas_Basics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_1_Intro_to_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Reading and Parsing Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_2_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	3. Advanced Matplotlib Figures <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_3_Advanced_Plotting_with_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -34,8 +34,8 @@ The modules cover the following topics:
 4. Advanced Astronomy and Scientific Computing in Python
 	1. Measurement Uncertainty and Precision <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_1_Measurement_Uncertainty.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Introduction to SciPy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_2_Intro_to_Scipy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	3. Creating Images with Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_3_Astropy_Images.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	4. Tables in Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_4_Astropy_Tables.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Creating Images with Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_3_Astropy_images.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	4. Tables in Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_4_Tables_in_Astropy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 5. Projects
 	1. TBD
