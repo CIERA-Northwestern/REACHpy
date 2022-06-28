@@ -29,7 +29,8 @@ The modules cover the following topics:
 3. Advanced Analysis and Tools in Python
 	1. Pandas Basics <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_1_Intro_to_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	2. Reading and Parsing Data Files <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_2_Reading_and_Parsing_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	3. Advanced Matplotlib Figures <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_3_Advanced_Plotting_with_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Advanced Matplotlib Figures - To do
+	4. Advanced string formatting with f-strings <a href="https://colab.research.google.com/github/mcstroh/python-tutorials/blob/master/String_formatting_with_fstrings.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 4. Advanced Astronomy and Scientific Computing in Python
@@ -39,7 +40,13 @@ The modules cover the following topics:
 	4. Tables in Astropy <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_4_Tables_in_Astropy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 5. Projects
-	1. TBD
+	1. Velocity of stars in the Milky Way <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/VelocityOfStarsInTheMilkyWay/VelocityOfStarsInTheMilkyWay.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	2. Habitable worlds <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/HabitableWorlds/HabitableWorlds.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	3. Accreting black holes <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/AccretingBlackHoles/AccretingBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	4. Extracting energy from black holes <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/ExtractingEnergyFromBlackHoles/ExtractingEnergyFromBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	5. Simulating planetary systems <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/SimulatingPlanetarySystems/SimulatingPlanetarySystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	6. Weighing baby solar systems - Coming soon!
+	7. Binary black hole mergers  <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/BinaryBlackHoleMergers/BinaryBlackHoleMergers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
