@@ -45,8 +45,8 @@ The modules cover the following topics:
 	3. Accreting black holes <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/AccretingBlackHoles/AccretingBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	4. Extracting energy from black holes <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/ExtractingEnergyFromBlackHoles/ExtractingEnergyFromBlackHoles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	5. Simulating planetary systems <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/SimulatingPlanetarySystems/SimulatingPlanetarySystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-	6. Weighing baby solar systems - Coming soon!
-	7. Binary black hole mergers  <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/BinaryBlackHoleMergers/BinaryBlackHoleMergers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	6. Weighing baby solar systems <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/WeighingBabySolarSystems/WeighingBabySolarSystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	7. Binary black hole mergers <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/BinaryBlackHoleMergers/BinaryBlackHoleMergers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
 
@@ -72,7 +72,7 @@ cd Path/To/Directory/
 git clone https://github.com/CIERA-Northwestern/REACHpy.git
 ```
 
-4. Change directory to the IDEASpy directory
+4. Change directory to the REACHpy directory
 ```
 cd REACHpy/
 ```
@@ -82,10 +82,13 @@ cd REACHpy/
 cd Module_1/
 ```
 
-6. Start jupyter notebook with the desired section. For example, for Section 1:
+6. Start Jupyter notebook with the desired section. For example, for Section 1:
 ```
 jupyter notebook Section_1_Intro_to_Python.ipynb
 ```
+
+7. When using Jupyter, wget commands are unnecessary. All data files should be in the same directory as the ipynb file, or in a data subdirectory.
+
 
 ### Prerequisites
 
