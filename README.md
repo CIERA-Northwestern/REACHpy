@@ -32,6 +32,7 @@ The modules cover the following topics:
 	3. Advanced Matplotlib Figures <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Section_3_Advanced_Plotting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 	4. Advanced String Formatting with f-strings <a href="https://colab.research.google.com/github/mcstroh/python-tutorials/blob/master/String_formatting_with_fstrings.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	* Challenge 1: Analyze Gaia Data with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/Challenge_1_Gaia_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	* Challenge 2: Exoplanets with Pandas <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_3/ Challenge_2_Exoplanets_with_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 4. Advanced Astronomy and Scientific Computing in Python
 	1. Measurement Uncertainty and Precision <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Module_4/Section_1_Measurement_Uncertainty.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
