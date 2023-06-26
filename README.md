@@ -124,7 +124,9 @@ Please read [Contributing.md](https://github.com/CIERA-Northwestern/IDEASpy/blob
 
 * Katie Breivik
 * Scott Coughlin
+* Lindsay DeMarchi
 * Michael Katz
+* Charlie Kilpatrick
 * Diego Munoz
 * Michelle Paulsen
 * Alexandria Romasanta
