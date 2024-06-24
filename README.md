@@ -52,7 +52,7 @@ The modules cover the following topics:
 	5. Simulating planetary systems <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/SimulatingPlanetarySystems/SimulatingPlanetarySystems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 	
 6. Activities
-	1. SN classification <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/Projects/SN_classification/blob/main/REACH_SN_Spectra.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	1. SN classification <a href="https://colab.research.google.com/github/CIERA-Northwestern/REACHpy/blob/main/Projects/SN_classification/REACH_SN_Spectra.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 IDEASpy was originally developed as part of the Integrated Data-Driven Discovery in Earth and Astrophysical Sciences ([IDEAS](https://www.ideas.ciera.northwestern.edu/)) Research Traineeship program supported by the National Science Foundation under grant DGE-1450006. However, any opinions, findings, conclusions, and/or recommendations are those of the investigators and do not necessarily reflect the views of the National Science Foundation. It has since been modified for use by students with support from [Reach for the Stars](https://gk12.ciera.northwestern.edu/).
